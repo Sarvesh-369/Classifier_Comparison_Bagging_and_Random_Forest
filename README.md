@@ -4,7 +4,8 @@ This repository contains the implementation of Bagging and Random Forest ensembl
 
 ## Introduction
 
-The project focuses on classification tasks using ensemble techniques, specifically Bagging and Random Forest. It includes the following components:
+The project focuses on classification tasks using ensemble techniques, specifically Bagging and Random Forest.
+It includes the following components:
 
 - Implementation of Bagging, an ensemble method that combines multiple base models using bootstrap samples.
 - Implementation of Random Forest, an ensemble method that extends Bagging by adding feature selection.
